@@ -167,3 +167,5 @@ Desktop.ini
 **/*.log
 .ipynb_checkpoints
 **/*.ipynb_checkpoints
+
+config.py
